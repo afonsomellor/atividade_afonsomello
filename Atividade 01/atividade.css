@@ -1,0 +1,117 @@
+header{
+    height: 50px;
+    display: flex;
+    flex-direction: column;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+    .banner{
+        flex: 1;
+        background-color: #259ada;
+        text-align:center;
+
+    }
+
+
+section{
+    display: flex;
+    flex-direction: row;
+    margin: 2%;
+  
+}
+ h1{
+    padding-top: 60px;
+    color: #fff;
+}
+    .section-column{
+        flex: 1;
+        display: flex;
+        flex-direction: column;
+        height: 200px;
+        text-align:center;
+        
+        
+}
+    .retangle{
+        flex: 1;
+        background-color: #1a1152;
+        margin: 10px;
+
+
+}
+
+nav{
+    display: flex;
+    flex-direction: row;
+    height: 80px;
+    margin: 2%;
+    color: #fff;
+}
+
+/* h3{
+    color: #fff;
+} */
+    .item-menu{
+        flex: 1;
+        background-color: #126066;
+        margin: 10px;
+        text-align:center;
+        align-items: center;
+}
+
+    .section-column2{
+        flex: 1;
+        display: flex;
+        flex-direction: row;
+        height: 400px;
+        margin: 2%;
+    
+    
+}
+    .retangle2{
+        flex: 1;
+        background-color: #2a8191;
+        margin: 10px;
+        text-align:center;
+        align-items: center;
+    }
+    .retangle3{
+        flex: 1;
+        background-color: #2a8191;
+        margin: 10px;
+        text-align:center;
+        align-items: center;
+}
+
+footer{
+    display: flex;
+    flex-direction: row;
+
+    }
+    .section-column3{
+        flex: 1;
+        display: flex;
+        flex-direction: row;
+        height: 200px;
+        margin: 2%;
+        
+        
+    }
+    .retangle4{
+        flex: 1;
+        background-color: #2a8191;
+        margin: 10px;
+        text-align:center;
+        align-items: center;
+    }
+    .retangle5{
+        flex: 3;
+        background-color: #b3dbe2;
+        margin: 10px;
+        text-align:left;
+
+    }
+    
